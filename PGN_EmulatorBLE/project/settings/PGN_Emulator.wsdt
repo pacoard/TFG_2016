@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>PGN_Emulator/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>209</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1221</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4310-13120</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>PGN_Emulator</ExpandedNode><ExpandedNode>PGN_Emulator/driverlib</ExpandedNode><ExpandedNode>PGN_Emulator/driverlib/MSP430F5xx_6xx</ExpandedNode><ExpandedNode>PGN_Emulator/hal.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29905-15915</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-22115-10631</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-79-6727</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BCUart.c</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>1690</SelStart><SelEnd>1710</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\PGN_protocol.h</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>3584</SelStart><SelEnd>3584</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>236</YPos><SelStart>10490</SelStart><SelEnd>10490</SelEnd></Tab><ActiveTab>2</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05c42648><key>iaridepm.enu1</key></Toolbar-05c42648></Sizes></Row0><Row1><Sizes><Toolbar-05cacdc8><key>debuggergui.enu1</key></Toolbar-05cacdc8></Sizes></Row1><Row2><Sizes><Toolbar-05cad020><key>430fet1</key></Toolbar-05cad020></Sizes></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>626</Bottom><Right>300</Right><x>-2</x><y>-2</y><xscreen>1400</xscreen><yscreen>86</yscreen><sizeHorzCX>911458</sizeHorzCX><sizeHorzCY>110115</sizeHorzCY><sizeVertCX>196615</sizeVertCX><sizeVertCY>804097</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>110</Bottom><Right>1538</Right><x>-2</x><y>-2</y><xscreen>1540</xscreen><yscreen>112</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>143406</sizeHorzCY><sizeVertCX>911458</sizeVertCX><sizeVertCY>110115</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

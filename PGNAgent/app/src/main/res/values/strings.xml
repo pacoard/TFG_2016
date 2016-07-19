@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PGNAgent</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="not_known_temperature">\? ºC</string>
+    <string name="not_known_humidity">\? %</string>
+
+    <!-- WSNActivity: Strings for Alert Dialog -->
+    <string name="askHowToConnect_title">Choose how to connect to PGN.</string>
+
+    <string name ="usb_not_connected_alert">Please plug your USB device.</string>
+    <string name ="usb_not_connected_description">Could not find PGN device.</string>
+    <string name ="ble_not_connected_alert">Please enable Bluetooth on your smartphone.</string>
+    <string name ="ble_not_connected_description">Could not find PGN device because Bluetooth is not enabled.</string>
+    <string name ="hm10_not_found_alert">HM-10 Bluetooth module was not found</string>
+    <string name ="hm10_not_found_description">Make sure HM-10 module is enabled and try again.</string>
+    <string name="ble_not_supported">BLE is not supported on this device</string>
+    <string name="ble_not_enabled">Bluetooth is not enabled</string>
+
+    <string name="USB">USB</string>
+    <string name="BLE">Bluetooth Low Energy</string>
+
+    <!-- Toast messages Strings -->
+    <string name="killed_ble_connection">Bluetooth link was broken</string>
+
+    <string-array name="pgn_requests">
+        <!-- Manejo de la red -->
+        <item>get_node_list</item>
+        <item>get_num_nodes</item>
+
+        <!-- Sensores -->
+        <item>get_temperature</item>
+        <item>get_humidity</item>
+        <item>get_humidity</item>
+        <item>set_led</item>
+        <item>toggle_led</item>
+        <item>set_all_leds</item>
+        <item>clear_all_leds</item>
+        <item>toggle_all_leds</item>
+    </string-array>
+
+    <string name="title_activity_node">NodeActivity</string>
+</resources>

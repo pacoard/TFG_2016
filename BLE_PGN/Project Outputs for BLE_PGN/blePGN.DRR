@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: blePGN.PcbDoc   07/07/2016  0:05:09
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : blePGN-RoundHoles.TXT
+ASCII SlotHoles File : blePGN-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15.75mil (0.40005mm)     Round          5                0.20 Inch (5.17 mm)
+T2        27.56mil (0.70002mm)     Round          2                0.12 Inch (3.10 mm)
+T3        27.56mil (0.70002mm)     Slot           4                290.16 Inch (7370.10 mm)
+T4        28mil (0.7112mm)         Round          99               22.64 Inch (575.03 mm)
+T5        35.43mil (0.89992mm)     Round          53               8.84 Inch (224.44 mm)
+T6        47.24mil (1.1999mm)      Round          8                1.46 Inch (37.13 mm)
+T7        62.99mil (1.59995mm)     Round          2                1.50 Inch (38.10 mm)
+T8        117.99mil (2.99695mm)    Round          4                7.19 Inch (182.50 mm)
+---------------------------------------------------------------------------
+Totals                                            177              332.11 Inch (8435.57 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

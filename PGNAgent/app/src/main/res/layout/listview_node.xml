@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="0"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:layout_width="43dp"
+        android:layout_height="64dp"
+        android:id="@+id/sensorImageView"
+        android:src="@drawable/wireless_sensor_no_background"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="25dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="62dp"
+        android:layout_height="match_parent"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/idTextView"
+            android:layout_marginTop="25dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/not_known_temperature"
+            android:id="@+id/tempTextView"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/not_known_humidity"
+            android:id="@+id/humTextView"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="62dp"
+        android:id="@+id/imageView2"
+        android:src="@android:drawable/ic_menu_manage"
+        android:layout_weight="0.1" />
+
+</LinearLayout>
