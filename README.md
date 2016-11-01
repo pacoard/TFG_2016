@@ -9,3 +9,5 @@ PGNAgent => Aplicación en Android, desarollada en Android Studio, que ofrece un
 PGN_Emulator => Firmware desarrollado en C para el MSP430F5529 LaunchPad, que emula la conexión USB con un smartphone. Desarrollado con IAR Embedded Workbench.
 
 PGN_EmulatorBLE => Breves modificaciones a PGN_Emulator, para permitir la comunicación serie con un módulo Bluetooth.
+
+Contacto: pacoard@gmail.com
